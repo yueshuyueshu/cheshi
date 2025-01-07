@@ -12,6 +12,12 @@
 }
 .box_1 {
 }
+._形状 {
+}
+.image {
+}
+.button {
+}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
@@ -56,8 +62,7 @@
 ._文本段落 {
   text-align:left;
 }
-.sticky_2 {
-  text-align:left;
+.arrow {
 }
 ._表单提示 {
   color:#999999;
